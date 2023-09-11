@@ -8,3 +8,6 @@ In this challenge, the task of analyzing data about client profitability using p
 
 # Challenge 2
 This challenge involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions.
+
+# Challenge 3
+This challenge involved calculations of residual debt and present value.
