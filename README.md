@@ -4,5 +4,7 @@
 This project divided in three challenges.
 
 # Challenge 1
-In the cahallenge 1 uses data about period, type of client, client name, revenue and cogs by each client. 
-Specifically, by using pivot tables represent the monthly breakdown of Gross Profit, Revenues and Cogs by client and calculate which are the most profitable client accounts.
+In this challenge, the task of analyzing data about client profitability using pivot tables was undertaken. A pivot table was created to display the monthly breakdown of gross profit, revenue, and COGS by client. This facilitated the identification of the most profitable client accounts.
+
+# Challenge 2
+This challenge involved completing the income statement, profit and loss statement, and balance sheet for the last year's transactions.
